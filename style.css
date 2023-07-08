@@ -21,6 +21,15 @@ body {
   border-radius: 4px;
   text-decoration: none;
 }
+.secondary-button {
+  width: fit-content;
+  padding: 10px 20px;
+  background-color: white;
+  color: #fd6e0a !important;
+  border: 1px solid #fd6e0a;
+  border-radius: 4px;
+  text-decoration: none;
+}
 
 .container {
   max-width: 1200px;
